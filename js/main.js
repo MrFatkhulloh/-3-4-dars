@@ -38,5 +38,5 @@ alert("Unda kelishdik. " + userTime + " ga yaqin xodimlarimiz siz bilan bog'lani
 
 var userGame = prompt("Bo'sh vaqtingizda qanaday o'yinlar o'ynaysiz?");
 console.log(userGame);
-alert("Hurmatli " + userName + " " + userFirstName + "," + " ogohlantirganimizdek hammasi hazil. Biroq sizga maslahat bera olamiz xalos. Orzuingizdagi " + userCarColor + " " + userCarName + " avtomobiliga erisha olmaysiz agar unga loyiq bo'lmasangiz. " + userAge + " yoshda orzuni maqsadga aylantirib, " + userGame + " o'ynash o'rniga " + userCarColor + " " + userCarName + " ni qanday qo'lga kiritish yo'llarini o'ylash va unga intilish kerak. Xarakatni hozirdan boshlang maylimi?!");
+alert("Hurmatli " + userName + " " + userFirstName + "," + " ogohlantirganimizdek hammasi hazil. Biroq sizga maslahat bera olamiz xalos. Orzuingizdagi " + userCarColor + " rangli " + userCarName + " avtomobiliga erisha olmaysiz agar unga loyiq bo'lmasangiz. " + userAge + " yoshda orzuni maqsadga aylantirib, " + userGame + " o'ynash o'rniga " + userCarColor + " rangli " + userCarName + " ni qanday qo'lga kiritish yo'llarini o'ylash va unga intilish kerak. Xarakatni hozirdan boshlang maylimi?!");
 
