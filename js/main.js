@@ -1,4 +1,4 @@
-alert("Sayt xazil tarzida tuzilgan. Davom etish uchun 'ok' tugmasini bosing.")
+alert("Sayt hazil tarzida tuzilgan. Davom etish uchun 'ok' tugmasini bosing.")
 
 var userName = prompt("Imingiz?");
 console.log(userName);
@@ -14,7 +14,7 @@ alert("Biz aynan " + userAge + " " + "yoshdagi insonlarni saytimizga tashrif buy
 
 var userNationality = prompt("Millatingiz?");
 console.log(userNationality);
-alert("Tabriklaymiz! Xurmatli " + userName + "! " + "Bizning jamoa " + userAge + " yoshdagi " + userNationality + " foydalanuvchilarga orzularidagi avtomobillarini xarid qilishda davom etmoqda. Davom etish uchun 'ok' tugmasini bosing.");
+alert("Tabriklaymiz! Hurmatli " + userName + "! " + "Bizning jamoa " + userAge + " yoshdagi " + userNationality + " foydalanuvchilarga orzularidagi avtomobillarini xarid qilishda davom etmoqda. Davom etish uchun 'ok' tugmasini bosing.");
 
 var userCarName = prompt("Orzuingizdagi mashinangiz?");
 console.log(userCarName);
@@ -34,9 +34,9 @@ alert("Tushunarli. Keyingi savolga o'ting.");
 
 var userTime = prompt("yetkazish uchun sizga qaysi vaqt qulay?");
 console.log(userTime);
-alert("Unda kelishdik. " + userTime + " ga yaqin hodimlarimiz siz bilan bog'lanishadi.");
+alert("Unda kelishdik. " + userTime + " ga yaqin xodimlarimiz siz bilan bog'lanishadi.");
 
 var userGame = prompt("Bo'sh vaqtingizda qanaday o'yinlar o'ynaysiz?");
 console.log(userGame);
-alert("Xurmatli " + userName + " " + userFirstName + "," + " ogohlantirganimizdek hammasi xazil. Biroq sizga maslahat bera olamiz xalos. Orzuingizdagi " + userCarColor + " " + userCarName + " avtomobiliga erisha olmaysiz agar unga loyiq bo'lmasangiz. " + userAge + " yoshda orzuni maqsadga aylantirib, " + userGame + " o'ynash o'rniga " + userCarColor + " " + userCarName + " ni qanday qo'lga kiritish yo'llarini o'ylash va unga intilish kerak. Xarakatni hozirdan boshlang!");
+alert("Hurmatli " + userName + " " + userFirstName + "," + " ogohlantirganimizdek hammasi hazil. Biroq sizga maslahat bera olamiz xalos. Orzuingizdagi " + userCarColor + " " + userCarName + " avtomobiliga erisha olmaysiz agar unga loyiq bo'lmasangiz. " + userAge + " yoshda orzuni maqsadga aylantirib, " + userGame + " o'ynash o'rniga " + userCarColor + " " + userCarName + " ni qanday qo'lga kiritish yo'llarini o'ylash va unga intilish kerak. Xarakatni hozirdan boshlang maylimi?!");
 
